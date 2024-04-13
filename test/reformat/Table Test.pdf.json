@@ -1,0 +1,8 @@
+[
+    {
+        "page 0 of /Volumes/Projects/PolyU_GPTutoring/Document_Loader/test/assets/Table Test.pdf": "Table Test\n[{\"column 1 ' ' of row  1 '   '\": '', \"column 2 'Favorite Sports' of row  1 '   '\": 'Favorite Sports', \"column 3 'Age' of row  1 '   '\": 'Age'}, {\"column 1 ' ' of row  2 'Amy'\": 'Amy', \"column 2 'Favorite Sports' of row  2 'Amy'\": 'Badminton', \"column 3 'Age' of row  2 'Amy'\": '20'}, {\"column 1 ' ' of row  3 'Bob'\": 'Bob', \"column 2 'Favorite Sports' of row  3 'Bob'\": 'Jogging', \"column 3 'Age' of row  3 'Bob'\": '19'}, {\"column 1 ' ' of row  4 'Cindy'\": 'Cindy', \"column 2 'Favorite Sports' of row  4 'Cindy'\":\n'swimming', \"column 3 'Age' of row  4 'Cindy'\": '25'}]\n"
+    },
+    {
+        "page 1 of /Volumes/Projects/PolyU_GPTutoring/Document_Loader/test/assets/Table Test.pdf": "A table in the image\n"
+    }
+]
